@@ -1,6 +1,10 @@
-# Calculadora Quadrado
+# Calculadora Formas Geométricas
 
-Calculadora de área e perímetro de um quadrado
+Calculadora de área e perímetro das formas:
+
+- Quadrado
+- Circulo
+- Retângulo
 
 ## Tecnologias
 
